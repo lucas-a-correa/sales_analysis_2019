@@ -13,7 +13,7 @@
 
 O presente relatório busca analisar os dados de vendas no ano de 2019 de uma loja online. O relatório acompanha uma [apresentação]() em PowerPoint e busca explicar os detalhes desta.
 
-##3. Dados
+## 3. Dados
 
 Os dados utilizados foram obtidos de um dataset do [Kaggle](https://www.kaggle.com/datasets/knightbearr/sales-product-data).
 Os dados são divididos em 12 arquivos CSV, um para cada mês do ano. Foi utilizado um [script]() em Python para a limpeza e análise dos dados.
