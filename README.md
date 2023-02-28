@@ -11,12 +11,12 @@
 
 ## 2. Contexto
 
-O presente relatório busca analisar os dados de vendas no ano de 2019 de uma loja online. O relatório acompanha uma [apresentação]() em PowerPoint e busca explicar os detalhes desta.
+O presente relatório busca analisar os dados de vendas no ano de 2019 de uma loja online. O relatório acompanha uma [apresentação](sales_analysis_2019/Apresentação_Vendas.pptx) em PowerPoint e busca explicar os detalhes desta.
 
 ## 3. Dados
 
 Os dados utilizados foram obtidos de um dataset do [Kaggle](https://www.kaggle.com/datasets/knightbearr/sales-product-data).
-Os dados são divididos em 12 arquivos CSV, um para cada mês do ano. Foi utilizado um [script]() em Python para a limpeza e análise dos dados.
+Os dados são divididos em 12 arquivos CSV, um para cada mês do ano. Foi utilizado um [script](sales_analysis_2019/sales_cleaning.py) em Python para a limpeza e análise dos dados.
 
 O único problema encontrado nos dados foi o fato de que todos os arquivos CSV possuiam alguma quantidade de linhas nulas ou com repetições dos títulos das colunas. No total, foram encontradas 900 linhas com algum desses problemas, ou 0,48% dos dados. Esses problemas apresentavam-se distribuídos entre os arquivos de cada mês, com uma prevalência de entre 0,23% e 0,34% de dados nulos e 0,14% e 0,24% de linhas repetidas. O fato de estar distribuído em porcentagens similares entre todos os meses, sem que nenhum se destaque em particular, aponta para algum problema na conversão dos dados ou no próprio sistema que recebe a entrada dessas dados, sendo interessante o exame para que se evitem erros futuros.
 
