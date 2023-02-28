@@ -30,11 +30,11 @@ No gráfico acima podemos observar o total de vendas por mês, bem como a receit
 
 Em seguida, podemos analisar as vendas por produto e suas respectivas importâncias. Vemos que 7 produtos representam 74,38% das vendas, de um total de 19 produtos. Destes, os dois mais vendidos, com 28,05% das vendas, são diferentes tipos de pilhas, enquanto os demais 5 são produtos para smartphones (carregadores e fones de ouvido) e representam 46,33% das vendas. Entretanto, observemos o gráfico abaixo, que destaca a receita por produto:
 
-![Paretto_Receita](https://user-images.githubusercontent.com/120389170/221831816-0dbc3cdb-5852-46be-9cba-1d4d1f762a56.jpg)
+![Receita_Produto](https://user-images.githubusercontent.com/120389170/221832882-a0717501-f48e-4862-9ac1-4d96f6f2c6d7.png)
 
 Vemos que 7 produtos concentram 79,5% da receita total, e somente um deles está entre os que mais vendem. Isso é explicado pelo preço individual de cada produto. O Apple Airpod, que é o 6° produto mais vendido e a 7ª maior receita é o produto com o 11° maior preço e encontra-se no meio do caminho entre esses dois grupos. Em relação aos demais, verificamos que os outros 6 produtos mais vendidos são os 6 menores valores, e dos demais 6 produtos com maior receita todos encontram-se entre os 9 maiores preços, como destaca-se no gráfico abaixo:
 
-![Paretto_Receita](https://user-images.githubusercontent.com/120389170/221831845-8e58dc2f-d5fe-4823-aa6b-1aec48d1f2bc.jpg)
+![Preço_Produto](https://user-images.githubusercontent.com/120389170/221832965-d885d568-f77a-495e-9ee0-dc518e4c6aec.png)
 
 Esse é um comportamento esperado, uma vez que um menor preço tende a gerar uma maior demanda e, consequentemente, um maior volume de vendas. Mas como a diferença de preço entre o produto mais vendido e o mais caro é de quase US$ 1.700, a quantidade de demanda é mais do que suficiente para gerar a diferença de receita.
 
